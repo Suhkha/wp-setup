@@ -1,0 +1,9 @@
+.DS_STORE
+.vagrant
+config_custom.yml
+npm-debug.log
+public/wp-includes
+public/wp-content/plugins
+public/wp-content/upgrade
+public/wp-content/uploads
+public/wp-content/*.php
